@@ -1,0 +1,11 @@
+Variable: una variable es una forma de guardar algo para usarlo mas tarde que se crea utilizando la palabra VAR
+ seguida de un espacio y el nombre de la variable. Hay tres formas de declarar un variable
+ VAR, LET y CONST.
+ una string es cualquier texto entre comillas
+ un Booleano significa que tiene dos opciones positivo o negativo, verdadero o falso. Sus valores posibles son
+ true o false
+ las funciones son tipos de objetos, que son invocables, se trata de darle el nombre de la funcion que va
+ a cumplir
+ el argumento de una funcion es lo que va entre parentesis
+ return es la unica forma de que lo datos escapan de una funcion y, devuelve lo especificado
+ return es una declaracion.
