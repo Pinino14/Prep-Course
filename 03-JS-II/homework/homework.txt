@@ -1,0 +1,7 @@
+con && evalua dos expresiones y y devuelve verdadero si ambas son TRUE, es un operador AND.
+con || es el operador OR si una de las expresiones es TRUE devolvera verdadero, si ambas son
+false devlvera falso
+el operadpr logico NOT (!) devolvera el valor opuesto a lp que se le pasa.
+el blucle FOR, es una instruccion, primero se declara una variable que se repetira
+luego una expresion condicional que continuara sucediendo hasta que esta declaracion sea FALSE 
+y por ultimo incrementamos la variable 
